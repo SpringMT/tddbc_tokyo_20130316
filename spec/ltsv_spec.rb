@@ -1,3 +1,4 @@
+require __dir__ + '/spec_helper'
 
 describe Ltsv do
   let(:ltsv) { Ltsv.new }

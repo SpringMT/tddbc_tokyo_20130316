@@ -7,6 +7,6 @@ require 'rspec'
 
 $TESTING=true
 $:.unshift File.join(__dir__, '..', 'lib')
-require 'ltsv'
 
+require 'ltsv'
 
